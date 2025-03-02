@@ -1,0 +1,6 @@
+@DHL.Server_HostAddress = http://localhost:5163
+
+GET {{DHL.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
