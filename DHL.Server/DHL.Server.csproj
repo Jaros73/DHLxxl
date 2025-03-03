@@ -21,9 +21,5 @@
     <ProjectReference Include="..\DHL.Shared\DHL.Shared.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="wwwroot\" />
-  </ItemGroup>
-
 
 </Project>
